@@ -32,6 +32,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: Fourteen tales about the magical land of Mo and the people and animals
   who live there.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16259#The-Surprising-Adventures-of-the-Magical-Monarch-of-Mo-and-His-People
 gutenberg_bookshelf:
 - Children's Literature
 - Fantasy
