@@ -1,0 +1,53 @@
+_repo: The-Surprising-Adventures-of-the-Magical-Monarch-of-Mo-and-His-People_16259
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ver Beck, Frank
+    aliases:
+    - Verbeck, Frank
+    - Beck, Frank Ver
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '33253'
+    url: http://www.gutenberg.org/2009/agents/33253
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Fitzgerald, Hugh
+    - Van Dyne, Edith
+    - Baum, Lyman Frank
+    - Fitzgerald, Capt. Hugh
+    - Akers, Floyd
+    - Cooke, John Estes
+    - Metcalf, Suzanne
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Fourteen tales about the magical land of Mo and the people and animals
+  who live there.
+gutenberg_bookshelf:
+- Children's Literature
+- Fantasy
+gutenberg_issued: '2005-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Dragons -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+title: The Surprising Adventures of the Magical Monarch of Mo and His People
+url: http://www.gutenberg.org/ebooks/16259
